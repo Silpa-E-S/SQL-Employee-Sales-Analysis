@@ -21,20 +21,32 @@ The dataset includes the following columns:
 ## SQL Analysis performed
 ### - Basic Queries
 1. Retrieve all records from the sales table
+ ![text](query1.png)
 2. List employees who achieved more than 15,000 in sales
+![text](query2.png)
 ### - Filtering & Conditions
 3. Show names and departments of employees in the South region
+![text](query3.png)
 4. Find employees whose sales are less than their target
+![text](query4.png)
 5. Find employees who joined before 2022
+![text](query5.png)
 ### - Aggregations
 6. find total sales for each department
+![text](query6.png)
 7. Get the average sales per region
+![text](query7.png)
 8. Count the number of employees in each department
+![text](query8.png)
 ### - Advanced Analysis
 9. List employees who met or exceeded their target in the East region
+![text](query9.png)
 10. Find the top 3 employees with the highest sales
+![text](query10.png)
 11. Find the department with the highest total sales
+![text](query11.png)
 12. List employees whose sales are above the average sales
+![text](query12.png)
 ## Key Insights
 - Identified top performing employees
 - Compared sales performencs across regions and departments
@@ -42,16 +54,3 @@ The dataset includes the following columns:
 - Analyzed hiring trends using join date
 ## Conclusion
 This project demonstrates the use of SQL for data analysis, including filtering, aggregation, and business insight generation. It highlights how SQL can be used to support data-driven decision- making.
-## Query Output
-![text](query1.png)
-![text](query2.png)
-![text](query3.png)
-![text](query4.png)
-![text](query5.png)
-![text](query6.png)
-![text](query7.png)
-![text](query8.png)
-![text](query9.png)
-![text](query10.png)
-![text](query11.png)
-![text](query12.png)
