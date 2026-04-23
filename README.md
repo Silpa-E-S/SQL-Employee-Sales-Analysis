@@ -33,20 +33,20 @@ The dataset includes the following columns:
 ![text](query5.png)
 ### - Aggregations
 6. find total sales for each department
-![text](query6.png)
+ ![text](query6.png)
 7. Get the average sales per region
-![text](query7.png)
+ ![text](query7.png)
 8. Count the number of employees in each department
-![text](query8.png)
+ ![text](query8.png)
 ### - Advanced Analysis
 9. List employees who met or exceeded their target in the East region
-![text](query9.png)
+ ![text](query9.png)
 10. Find the top 3 employees with the highest sales
-![text](query10.png)
+ ![text](query10.png)
 11. Find the department with the highest total sales
-![text](query11.png)
+ ![text](query11.png)
 12. List employees whose sales are above the average sales
-![text](query12.png)
+ ![text](query12.png)
 ## Key Insights
 - Identified top performing employees
 - Compared sales performencs across regions and departments
