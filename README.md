@@ -42,3 +42,16 @@ The dataset includes the following columns:
 - Analyzed hiring trends using join date
 ## Conclusion
 This project demonstrates the use of SQL for data analysis, including filtering, aggregation, and business insight generation. It highlights how SQL can be used to support data-driven decision- making.
+## Query Output
+![text](query1.png)
+![text](query2.png)
+![text](query3.png)
+![text](query4.png)
+![text](query5.png)
+![text](query6.png)
+![text](query7.png)
+![text](query8.png)
+![text](query9.png)
+![text](query10.png)
+![text](query11.png)
+![text](query12.png)
