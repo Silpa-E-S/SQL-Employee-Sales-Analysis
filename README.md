@@ -49,6 +49,7 @@ The dataset includes the following columns:
 7. Get the average sales per region
  
  ![text](query7.png)
+
 8. Count the number of employees in each department
 
  ![text](query8.png)
