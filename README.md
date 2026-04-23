@@ -19,24 +19,25 @@ The dataset includes the following columns:
 - Microsoft Excel
 - GitHub
 ## SQL Analysis performed
-### - Basic Queries
+###  Basic Queries
 1. Retrieve all records from the sales table
  ![text](query1.png)
 2. List employees who achieved more than 15,000 in sales
 ![text](query2.png)
-### - Filtering & Conditions
+###  Filtering & Conditions
 3. Show names and departments of employees in the South region
 ![text](query3.png)
 4. Find employees whose sales are less than their target
 ![text](query4.png)
 5. Find employees who joined before 2022
 ![text](query5.png)
-### - Aggregations
-6. find total sales for each department
+###  Aggregations
+6. Find total sales for each department
+
  ![text](query6.png)
-7. Get the average sales per region
+8. Get the average sales per region
  ![text](query7.png)
-8. Count the number of employees in each department
+9. Count the number of employees in each department
  ![text](query8.png)
 ### - Advanced Analysis
 9. List employees who met or exceeded their target in the East region
